@@ -1,0 +1,6 @@
+redi image = "logo.png"
+image.size = 300 e 300
+
+tempo(30)  # Aguarda 30 segundos
+
+redi novo_texto = "Texto Apresentado Após 30 Segundos"
